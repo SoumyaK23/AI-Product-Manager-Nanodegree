@@ -21,3 +21,7 @@ There are a few different visual symptoms that indicate pneumonia. The most impo
 ## Project files
 1. An HTML Instructions_Preview.html file that includes your instructions, examples, and some sample test questions (as can be seen when you save a job and Preview the result.
 2. A pdf Proposal file, which is a writeup that details your design considerations and strategies for quality assurance.
+
+## Steps
+
+1. Create job using appropriate template: Since this is a annotation task, I have used <Strong>Image Categorization</strong>
