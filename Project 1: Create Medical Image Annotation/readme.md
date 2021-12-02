@@ -24,4 +24,8 @@ There are a few different visual symptoms that indicate pneumonia. The most impo
 
 ## Steps
 
-1. Create job using appropriate template: Since this is a annotation task, I have used <Strong>Image Categorization</strong>
+### 1. Create job using appropriate template
+Since this is a annotation task, I have used <Strong>Image Categorization</strong>
+### 2. Upload dataset xray_image_data.csv 
+### 3. Design your job
+### 4. Create test questions
