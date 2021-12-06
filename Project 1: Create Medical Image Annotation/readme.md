@@ -18,6 +18,10 @@ There are a few different visual symptoms that indicate pneumonia. The most impo
 * A normal, healthy image will depict clear lungs without any areas of abnormal cloudiness/opacity; there may be structured, web-like vasculature in the lungs but otherwise that area should be clear. In healthy images, you are also more likely to see a diaphragm shadow.
 * A pneumonia image may include a few things: areas of cloudiness/opacity in several concentrated areas or one large area. You may also see a general pattern of opacity that obscures the structure of the lungs, heart and diaphragm.
 
+![Clear lung X-Ray](https://github.com/SoumyaK23/AI-Product-Manager-Nanodegree/blob/main/Project%201:%20Create%20Medical%20Image%20Annotation/Screenshots/clear_lung_area_Xray.png)
+
+![Pneumonia example lung X-Ray](https://github.com/SoumyaK23/AI-Product-Manager-Nanodegree/blob/main/Project%201:%20Create%20Medical%20Image%20Annotation/Screenshots/example_peneumonia_symptoms_Xray.png)
+
 ## Project files
 1. An HTML Instructions_Preview.html file that includes your instructions, examples, and some sample test questions (as can be seen when you save a job and Preview the result.
 2. A pdf Proposal file, which is a writeup that details your design considerations and strategies for quality assurance.
