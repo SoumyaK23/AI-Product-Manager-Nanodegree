@@ -38,11 +38,16 @@ The data was uploaded to Appen
 
 ### 3. Design your job
 The next step was to design the job. This included providing instructions, rules, examples and questions for the annotator.
-In this step, data is mapped to the design
+The complete information is included in the Instructions_Preview.html file
+
 ![Design](https://github.com/SoumyaK23/AI-Product-Manager-Nanodegree/blob/main/Project%201:%20Create%20Medical%20Image%20Annotation/Screenshots/Design.png)
+
+In this step, data is mapped to the design
 ![Mapping](https://github.com/SoumyaK23/AI-Product-Manager-Nanodegree/blob/main/Project%201:%20Create%20Medical%20Image%20Annotation/Screenshots/Mapping.png)
 
 ### 4. Create test questions
-Last but not least, test questions were added for the annotator
+Last but not least, test questions were added for the annotator.
 ![Test Questions](https://github.com/SoumyaK23/AI-Product-Manager-Nanodegree/blob/main/Project%201:%20Create%20Medical%20Image%20Annotation/Screenshots/TestQs.png)
+
+Here is an example test question.
 ![Example test question](https://github.com/SoumyaK23/AI-Product-Manager-Nanodegree/blob/main/Project%201:%20Create%20Medical%20Image%20Annotation/Screenshots/ExampleQ.png)
