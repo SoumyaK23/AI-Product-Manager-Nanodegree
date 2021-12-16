@@ -38,7 +38,7 @@ The data was uploaded to Appen
 
 ### 3. Design your job
 The next step was to design the job. This included providing instructions, rules, examples and questions for the annotator.
-The complete information is included in the Instructions_Preview.html file
+The complete information is included in the Preview_Layout.html file
 
 ![Design](https://github.com/SoumyaK23/AI-Product-Manager-Nanodegree/blob/main/Project%201:%20Create%20Medical%20Image%20Annotation/Screenshots/Design.png)
 
