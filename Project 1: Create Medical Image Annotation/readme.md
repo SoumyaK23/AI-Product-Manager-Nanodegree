@@ -30,6 +30,19 @@ There are a few different visual symptoms that indicate pneumonia. The most impo
 
 ### 1. Create job using appropriate template
 Since this is a annotation task, I have used <Strong>Image Categorization</strong>
-### 2. Upload dataset xray_image_data.csv 
+
+### 2. Upload dataset xray_image_data.csv
+The dataset (117 rows) was provided by Udacity and is a subset of the one on Kaggle. 
+The data was uploaded to Appen
+![Data Upload](https://github.com/SoumyaK23/AI-Product-Manager-Nanodegree/blob/main/Project%201:%20Create%20Medical%20Image%20Annotation/Screenshots/Data_upload.png)
+
 ### 3. Design your job
+The next step was to design the job. This included providing instructions, rules, examples and questions for the annotator.
+In this step, data is mapped to the design
+![Design](https://github.com/SoumyaK23/AI-Product-Manager-Nanodegree/blob/main/Project%201:%20Create%20Medical%20Image%20Annotation/Screenshots/Design.png)
+![Mapping](https://github.com/SoumyaK23/AI-Product-Manager-Nanodegree/blob/main/Project%201:%20Create%20Medical%20Image%20Annotation/Screenshots/Mapping.png)
+
 ### 4. Create test questions
+Last but not least, test questions were added for the annotator
+![Test Questions](https://github.com/SoumyaK23/AI-Product-Manager-Nanodegree/blob/main/Project%201:%20Create%20Medical%20Image%20Annotation/Screenshots/TestQs.png)
+![Example test question](https://github.com/SoumyaK23/AI-Product-Manager-Nanodegree/blob/main/Project%201:%20Create%20Medical%20Image%20Annotation/Screenshots/ExampleQ.png)
